@@ -1,3 +1,4 @@
+/* Single space matches with the last selector that's called as descendant combinator */
 .container .text{
     background-color: yellow;
     color: red;
